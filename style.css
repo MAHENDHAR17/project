@@ -1,0 +1,9 @@
+h1{color: purple; }
+p{color:blueviolet}
+h2{color:blue}
+body{text-align: center;
+   background-image: url(mahendar.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+} 
+   a{text-align: left;}

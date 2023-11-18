@@ -1,0 +1,30 @@
+*{
+    color:rgb(250, 244, 244);
+}
+
+button{color: blue;}
+#logo{color: orange; height: 200px;}
+
+#navbar2{
+     height: 500px;
+     background-image: url(2.jpg);
+     background-size: cover; 
+     background-repeat: no-repeat;
+      
+}
+h1{
+    height: 200px;
+    text-align: center;
+    shape-image-threshold: calc(center);
+}
+h2{
+    text-align: right;
+    color: black;
+    font-style: oblique;
+    
+}
+
+input{
+    color: black;
+}
+
